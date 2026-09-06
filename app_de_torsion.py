@@ -109,8 +109,8 @@ def calcular_centros_cortante(datos_pisos, total_pisos):
 
 # INTERFAZ (STREAMLIT)
 
-st.set_page_config(page_title="Torsión en Planta - Multi-piso", layout="wide")
-st.title("Análisis de Torsión en Planta (Edificios Multi-piso)")
+st.set_page_config(page_title="Torsión en Planta - Estructuras aporticadas", layout="wide")
+st.title("Análisis de Torsión en Planta (Estructuras aporticadas)")
 
 # BARRA LATERAL
 st.sidebar.header("1. Geometría Global")
